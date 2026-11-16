@@ -1,0 +1,8 @@
+{
+  "name": "Sri Krishna Arts and Science College",
+  "description": "Official multi-portal institutional platform for Sri Krishna Arts and Science College, Coimbatore — featuring admissions, placements, faculty study backgrounds, campus guide, culturals, historical achievements, course forums, facilities, enrollment & hostel availability, inter-college event applications, global opportunities, and a Gemini-powered navigation assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
